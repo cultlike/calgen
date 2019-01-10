@@ -7,9 +7,12 @@ h1{
   text-align: center;
 
 }
-.page {
+div {
   background: #828489;
+  height: auto;
+  width: 100%
 }
+
 p {
   font-size: 1.5rem;
   text-align: center;
@@ -29,6 +32,7 @@ label {
 input {
   clear: left;
 
+
 }
 .inputs {
   text-align: center;
@@ -37,7 +41,6 @@ input {
 input, label {
     margin: 0.8rem 0;
 }
-
 
 span {
     padding: 0.2rem;
@@ -71,7 +74,6 @@ button:hover {
 span {
   opacity: 1;
   color: white;
-  text-shadow:
 
 }
 .hide {
